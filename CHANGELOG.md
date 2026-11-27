@@ -22,6 +22,23 @@ Please file a bug if you notice a violation of semantic versioning.
 
 ### Changed
 
+### Deprecated
+
+### Removed
+
+### Fixed
+
+### Security
+
+## [0.1.6] - 2026-11-27
+
+- TAG: [v0.1.6][0.1.6t]
+- COVERAGE: 96.15% -- 100/104 lines in 2 files
+- BRANCH COVERAGE: 82.50% -- 33/40 branches in 2 files
+- 90.91% documented
+
+### Changed
+
 - [kc] kettle-jem/prepare: updated 17 project files since the last release:
   - dependencies (17)
 
@@ -30,14 +47,6 @@ Please file a bug if you notice a violation of semantic versioning.
   - dependencies (14)
   - other (4)
   - workflows (8)
-
-### Deprecated
-
-### Removed
-
-### Fixed
-
-### Security
 
 ## [0.1.5] - 2026-10-28
 
@@ -218,7 +227,9 @@ Please file a bug if you notice a violation of semantic versioning.
   legacy manual bundle install path, avoiding setup-time Bundler full-index
   failures against `gem.coop`.
 
-[Unreleased]: https://github.com/pboling/kettle-paths/compare/v0.1.5...HEAD
+[Unreleased]: https://github.com/pboling/kettle-paths/compare/v0.1.6...HEAD
+[0.1.6]: https://github.com/pboling/kettle-paths/compare/v0.1.5...v0.1.6
+[0.1.6t]: https://github.com/pboling/kettle-paths/releases/tag/v0.1.6
 [0.1.5]: https://github.com/pboling/kettle-paths/compare/v0.1.4...v0.1.5
 [0.1.5t]: https://github.com/pboling/kettle-paths/releases/tag/v0.1.5
 [0.1.4]: https://github.com/pboling/kettle-paths/compare/v0.1.3...v0.1.4
